@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="300" src="https://github.com/smirart1/smirart1/blob/main/fondo2.png?raw=true"  />
+<img align="left" height="300" src="https://github.com/smirart1/smirart1/blob/main/bg.png?raw=true"  />
 
 ###
 
