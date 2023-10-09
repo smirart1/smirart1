@@ -51,11 +51,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lit" height="40" alt="lit logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
@@ -77,8 +73,3 @@
   <img src="https://streak-stats.demolab.com?user=smirart1&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/smirart1/smirart1/output/snake.svg" alt="Snake animation" />
-
-###
