@@ -47,7 +47,6 @@
 ###
 
 <div align="center" >
-  <img  height="150" src="https://github-readme-stats.vercel.app/api?username=smirart1&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
   <img height="150" src="https://streak-stats.demolab.com?user=smirart1&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
 </div>
 
