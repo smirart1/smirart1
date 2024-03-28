@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🚀  I’m a Front-End Developer working on my personal portfolio atm<br>🌱 Currently learning Typescript and PrimeVue with the integration of Tailwind<br>💬 Ask me about Vue and ReactJS<br>⚡ In my free time, I play the drums!! 🥁</p>
+<p align="center">🚀  I’m a Front-End Developer working on my personal portfolio atm<br>🌱 Currently learning React Native 📱 <br>💬 Ask me about Vue and ReactJS<br>⚡ In my free time, I play the drums!! 🥁</p>
 
 ###
 
